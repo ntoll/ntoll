@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm off social media but [maintain a blog](https://ntoll.org/). Here's [my CV](https://ntoll.org/cv). If you want to collaborate with me, you should [read this first](https://github.com/ntoll/being_together). [Email](mailto:ntoll@ntoll.org) is the best way to get in touch. Everything I say is false... ;-)
+I'm off social media but [maintain a blog](https://ntoll.org/). Here's [my CV](https://ntoll.org/cv). If you want to collaborate with me, you should [read this first](https://github.com/ntoll/being_together). The best way to get in touch is via [email](mailto:ntoll@ntoll.org). Everything I say is false... ;-)
 
 <!--
 **ntoll/ntoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
