@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm off social media but [maintain a blog](https://ntoll.org/). Here's [my CV](https://ntoll.org/cv) if you're interested in my professional work or hiring me. I'm an open-source contributor and if you want to collaborate with me, you should [read this first](https://github.com/ntoll/being_together). The best way to get in touch is via [email](mailto:ntoll@ntoll.org). Everything I say is false... ;-)
 
 <!--
