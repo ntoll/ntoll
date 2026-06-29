@@ -1,1 +1,3 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=888888&width=600&height=40&lines=Hello%2C+I'm+Nicholas.;I+invent+with+code.;My+approach+is+open%2C+playful+and+compassionate.;Other+things+I+do%3A;Music%2C+philosophy%2C+teaching+and+writing.)
+
 I'm off social media but [maintain a blog](https://ntoll.org/). Here's [my CV](https://ntoll.org/cv) if you want to know more about me. I'm an open-source contributor and if you want to collaborate, you should [read this first](https://github.com/ntoll/being_together). The best way to get in touch is via [email](mailto:ntoll@ntoll.org). Everything I say is false... ;-)
